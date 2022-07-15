@@ -18,7 +18,7 @@ using namespace std;
         2 - Construct the transition table.
         3 - Find the final states.
 		
-	It's 7/12/2022
+	It's 7/12/2022 
 */
 
 int n, // The number of transitions.
